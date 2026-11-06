@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile | AgriDirect</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <a class="logo" href="index.html">🌱 AgriDirect</a>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="marketplace.html">Marketplace</a>
+        <a href="farmer.html">Farmer Dashboard</a>
+        <a href="buyer.html">Buyer Dashboard</a>
+        <button onclick="logout()">Logout</button>
+    </nav>
+</header>
+
+<main class="categories">
+    <h1>👤 My Profile</h1>
+    <p>View and update your account details.</p>
+
+    <div id="profileDetails"></div>
+</main>
+
+<script>
+function logout() {
+    localStorage.removeItem("loggedInUser");
+    window.location.href = "login.html";
+}
+</script>
+
+<script src="js/profile.js"></script>
+
+</body>
+</html>

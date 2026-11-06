@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard | AgriDirect</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <a class="logo" href="index.html">🌱 AgriDirect</a>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="marketplace.html">Marketplace</a>
+        <button onclick="logout()">Logout</button>
+    </nav>
+</header>
+
+<main class="categories">
+    <h1>🛠️ Admin Dashboard</h1>
+    <p>Manage AgriDirect activities</p>
+
+    <div class="categories">
+        <h2>👥 Total Users: <span id="totalUsers">0</span></h2>
+        <h2>🌾 Total Products: <span id="totalProducts">0</span></h2>
+        <h2>📦 Total Orders: <span id="totalOrders">0</span></h2>
+    </div>
+
+    <h2>🌾 Product Management</h2>
+    <div id="adminProducts"></div>
+
+    <h2>📦 Order Management</h2>
+    <div id="adminOrders"></div>
+</main>
+
+<script>
+function logout() {
+    localStorage.removeItem("loggedInUser");
+    window.location.href = "login.html";
+}
+</script>
+
+<script src="js/admin.js"></script>
+
+</body>
+</html>

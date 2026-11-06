@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketplace - AgriDirect</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>🌱 AgriDirect</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="buyer.html">Dashboard</a>
+        <a href="cart.html">My Cart</a>
+        <a href="orders.html">My Orders</a>
+        <a href="profile.html">My Profile</a>
+    </nav>
+</header>
+
+<section class="container">
+    <h2>🌾 Agricultural Marketplace</h2>
+    <p>Buy fresh products directly from farmers.</p>
+
+    <input type="text" id="searchProduct"
+        placeholder="Search crops...">
+
+    <select id="categoryFilter">
+        <option value="All">All Categories</option>
+        <option value="Vegetables">Vegetables</option>
+        <option value="Fruits">Fruits</option>
+        <option value="Grains">Grains</option>
+        <option value="Pulses">Pulses</option>
+        <option value="Other">Other</option>
+    </select>
+
+    <select id="priceSort">
+        <option value="default">Sort by Price</option>
+        <option value="low">Low to High</option>
+        <option value="high">High to Low</option>
+    </select>
+
+    <div id="productList">
+        Loading products...
+    </div>
+</section>
+
+<script src="js/marketplace.js"></script>
+
+</body>
+</html>

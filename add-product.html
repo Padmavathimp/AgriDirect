@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Product | AgriDirect</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <a class="logo" href="index.html">🌱 AgriDirect</a>
+    <nav>
+        <a href="farmer.html">Dashboard</a>
+        <a href="marketplace.html">Marketplace</a>
+    </nav>
+</header>
+
+<main class="auth-page">
+    <section class="auth-card">
+        <h1>🌾 Add Your Product</h1>
+        <p class="auth-subtitle">List your agricultural products for sale.</p>
+
+        <form class="auth-form" id="productForm">
+
+            <label>Crop Name
+                <input type="text" id="cropName"
+                placeholder="Example: Rice, Tomato, Wheat" required>
+            </label>
+
+            <label>Product Category
+                <select id="category" required>
+                    <option value="">Choose Category</option>
+                    <option value="Vegetables">Vegetables</option>
+                    <option value="Fruits">Fruits</option>
+                    <option value="Grains">Grains</option>
+                    <option value="Pulses">Pulses</option>
+                    <option value="Other">Other</option>
+                </select>
+            </label>
+
+            <label>Price per Kg (₹)
+                <input type="number" id="price"
+                placeholder="Enter price" min="1" required>
+            </label>
+
+            <label>Available Quantity (Kg)
+                <input type="number" id="quantity"
+                placeholder="Enter quantity" min="1" required>
+            </label>
+
+            <label>Product Image
+                <input type="file" id="productImage"
+                accept="image/*" required>
+            </label>
+
+            <label>Description
+                <textarea id="description"
+                placeholder="Describe your crop..." required></textarea>
+            </label>
+
+            <button class="auth-submit" type="submit">
+                Add Product
+            </button>
+
+        </form>
+
+        <p class="auth-switch">
+            <a href="farmer.html">← Back to Dashboard</a>
+        </p>
+    </section>
+</main>
+
+<script src="js/product.js"></script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Products | AgriDirect</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <a class="logo" href="index.html">🌱 AgriDirect</a>
+
+    <nav>
+        <a href="farmer.html">Dashboard</a>
+        <a href="add-product.html">Add Product</a>
+        <a href="marketplace.html">Marketplace</a>
+        <a href="my-products.html">My Products 🌾</a>
+        <button onclick="logout()">Logout</button>
+    </nav>
+</header>
+
+<main class="categories">
+    <h1>🌾 My Products</h1>
+    <p>View, edit and delete your uploaded products.</p>
+
+    <div id="myProductList"></div>
+</main>
+
+<script>
+function logout() {
+    localStorage.removeItem("loggedInUser");
+    window.location.href = "login.html";
+}
+</script>
+
+<script src="js/my-products.js"></script>
+
+</body>
+</html>
