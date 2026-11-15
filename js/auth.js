@@ -1,76 +1,114 @@
 
-// AgriDirect - Registration and Login
+// AgriDirect - Supabase Registration and Login
 
+// ===============================
 // REGISTRATION
+// ===============================
+
 const registerForm = document.getElementById("registerForm");
 
 if (registerForm) {
-    registerForm.addEventListener("submit", function (event) {
+    registerForm.addEventListener("submit", async function (event) {
         event.preventDefault();
 
-        const name = document.getElementById("fullName").value;
-        const mobile = document.getElementById("phone").value;
+        const name = document.getElementById("fullName").value.trim();
+        const mobile = document.getElementById("phone").value.trim();
         const role = document.getElementById("accountType").value;
-        const email = document.getElementById("regEmail").value;
+        const email = document.getElementById("regEmail").value.trim();
         const password = document.getElementById("regPassword").value;
 
-        let users = JSON.parse(localStorage.getItem("users")) || [];
-
-        const existingUser = users.find(user => user.email === email);
-
-        if (existingUser) {
-            alert("Email already registered!");
+        if (!name || !mobile || !role || !email || !password) {
+            alert("Please fill all fields.");
             return;
         }
 
-        const newUser = {
-            name,
-            mobile,
-            role,
-            email,
-            password
-        };
+        try {
+            const { data, error } = await supabaseClient.auth.signUp({
+                email: email,
+                password: password,
+                options: {
+                    data: {
+                        full_name: name,
+                        mobile: mobile,
+                        role: role
+                    }
+                }
+            });
 
-        users.push(newUser);
-        localStorage.setItem("users", JSON.stringify(users));
+            if (error) throw error;
 
-        alert("Registration successful!");
-        window.location.href = "login.html";
+            alert(
+                "Registration successful! Please check your email for verification if requested."
+            );
+
+            window.location.href = "login.html";
+
+        } catch (error) {
+            console.error("Registration error:", error);
+            alert("Registration failed: " + error.message);
+        }
     });
 }
 
+
+// ===============================
 // LOGIN
+// ===============================
+
 const loginForm = document.getElementById("loginForm");
 
 if (loginForm) {
-    loginForm.addEventListener("submit", function (event) {
+    loginForm.addEventListener("submit", async function (event) {
         event.preventDefault();
 
-        const email = document.getElementById("email").value;
+        const email = document.getElementById("email").value.trim();
         const password = document.getElementById("password").value;
         const role = document.getElementById("role").value.toLowerCase();
 
-        const users = JSON.parse(localStorage.getItem("users")) || [];
+        try {
+            const { data, error } =
+                await supabaseClient.auth.signInWithPassword({
+                    email: email,
+                    password: password
+                });
 
-        const user = users.find(user =>
-            user.email === email &&
-            user.password === password &&
-            user.role.toLowerCase() === role
-        );
+            if (error) throw error;
 
-        if (user) {
-            localStorage.setItem("loggedInUser", JSON.stringify(user));
+            const user = data.user;
+            const userRole = user.user_metadata.role;
+            const userName = user.user_metadata.full_name;
+            const mobile = user.user_metadata.mobile;
 
-            alert("Login successful! Welcome " + user.name);
+            if (userRole !== role) {
+                await supabaseClient.auth.signOut();
+                alert("Please select the correct account type.");
+                return;
+            }
 
-            if (user.role === "farmer") {
+            const loggedInUser = {
+                id: user.id,
+                name: userName,
+                mobile: mobile,
+                role: userRole,
+                email: user.email
+            };
+
+            localStorage.setItem(
+                "loggedInUser",
+                JSON.stringify(loggedInUser)
+            );
+
+            alert("Login successful! Welcome " + userName);
+
+            if (userRole === "farmer") {
                 window.location.href = "farmer.html";
             } else {
                 window.location.href = "buyer.html";
             }
-        } else {
-            alert("Invalid email, password or account type!");
+
+        } catch (error) {
+            console.error("Login error:", error);
+            alert("Login failed: " + error.message);
         }
     });
 }
-

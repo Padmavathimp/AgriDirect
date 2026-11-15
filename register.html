@@ -30,7 +30,7 @@
         <label>Mobile Number</label>
         <input type="tel" id="phone"
             placeholder="Enter 10-digit mobile number"
-            maxlength="10" required>
+            maxlength="10" pattern="[0-9]{10}" required>
 
         <label>Account Type</label>
         <select id="accountType" required>
@@ -45,7 +45,8 @@
 
         <label>Password</label>
         <input type="password" id="regPassword"
-            placeholder="Create password" required>
+            placeholder="Create password"
+            minlength="6" required>
 
         <button type="submit">Register</button>
 
@@ -56,6 +57,13 @@
     </p>
 </section>
 
+<!-- Supabase Library -->
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+<!-- Supabase Configuration -->
+<script src="js/supabase.js"></script>
+
+<!-- Authentication -->
 <script src="js/auth.js"></script>
 
 </body>
