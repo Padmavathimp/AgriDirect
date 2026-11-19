@@ -1,0 +1,451 @@
+﻿State,District,Market,Commodity,Arrival_Date,Min_Price,Max_Price,Modal_Price
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-21,1802.39,2158.81,1939.93
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-21,4166.90,4645.41,4443.03
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-21,2964.73,3529.55,3159.49
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-21,2128.65,2470.98,2237.46
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-21,2198.08,2592.19,2347.35
+Karnataka,Kolar,Kolar,Cabbage,2026-10-21,1932.83,2202.50,2015.67
+Karnataka,Kolar,Kolar,Carrot,2026-10-21,3958.74,4461.21,4274.37
+Karnataka,Kolar,Kolar,Onion,2026-10-21,3104.67,3619.70,3320.84
+Karnataka,Kolar,Kolar,Potato,2026-10-21,2035.20,2460.30,2280.93
+Karnataka,Kolar,Kolar,Tomato,2026-10-21,2214.06,2717.91,2440.59
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-21,1699.91,1916.59,1818.99
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-21,3807.04,4625.39,4235.95
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-21,2829.58,3409.93,3116.39
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-21,1905.78,2231.77,2129.07
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-21,2168.97,2464.28,2277.76
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-22,1909.90,2139.39,1991.04
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-22,3942.63,4849.30,4401.93
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-22,2888.92,3262.67,3133.24
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-22,2082.26,2433.12,2264.86
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-22,2298.48,2578.06,2425.60
+Karnataka,Kolar,Kolar,Cabbage,2026-10-22,1943.70,2298.57,2061.56
+Karnataka,Kolar,Kolar,Carrot,2026-10-22,3940.40,4916.55,4378.20
+Karnataka,Kolar,Kolar,Onion,2026-10-22,3126.34,3654.39,3258.89
+Karnataka,Kolar,Kolar,Potato,2026-10-22,2098.15,2486.23,2327.45
+Karnataka,Kolar,Kolar,Tomato,2026-10-22,2315.03,2546.60,2427.48
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-22,1741.20,2023.91,1870.43
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-22,4072.93,4818.44,4359.34
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-22,2753.72,3240.59,3086.58
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-22,2025.20,2246.23,2140.93
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-22,2121.81,2455.73,2272.43
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-23,1789.69,2222.94,2016.23
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-23,3873.17,4840.16,4300.37
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-23,2782.33,3320.48,3029.30
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-23,1941.60,2387.97,2188.96
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-23,2292.69,2572.43,2416.03
+Karnataka,Kolar,Kolar,Cabbage,2026-10-23,1889.41,2276.01,2108.92
+Karnataka,Kolar,Kolar,Carrot,2026-10-23,3865.56,4432.03,4227.83
+Karnataka,Kolar,Kolar,Onion,2026-10-23,2945.03,3613.95,3250.83
+Karnataka,Kolar,Kolar,Potato,2026-10-23,2075.66,2495.83,2278.19
+Karnataka,Kolar,Kolar,Tomato,2026-10-23,2306.14,2563.20,2418.95
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-23,1695.28,2080.71,1916.43
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-23,3728.16,4443.79,4224.09
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-23,2965.83,3452.17,3151.09
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-23,1992.86,2355.01,2148.23
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-23,2069.35,2454.85,2230.44
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-24,1855.37,2265.43,2010.96
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-24,3937.25,4568.21,4328.25
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-24,2915.55,3399.32,3069.95
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-24,1940.15,2338.51,2167.93
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-24,2292.46,2547.89,2444.09
+Karnataka,Kolar,Kolar,Cabbage,2026-10-24,1846.83,2329.69,2066.81
+Karnataka,Kolar,Kolar,Carrot,2026-10-24,3794.03,4349.49,4163.82
+Karnataka,Kolar,Kolar,Onion,2026-10-24,3019.39,3698.26,3298.04
+Karnataka,Kolar,Kolar,Potato,2026-10-24,2007.54,2417.16,2228.68
+Karnataka,Kolar,Kolar,Tomato,2026-10-24,2258.45,2633.84,2450.50
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-24,1683.01,2080.51,1890.54
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-24,4018.50,4545.73,4229.03
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-24,2840.13,3301.04,3118.81
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-24,1913.25,2296.11,2124.25
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-24,2021.93,2390.67,2178.62
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-25,1933.95,2287.12,2063.51
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-25,4182.07,4638.07,4384.51
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-25,2711.65,3142.23,2964.76
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-25,2057.58,2418.94,2146.67
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-25,2281.85,2631.60,2415.07
+Karnataka,Kolar,Kolar,Cabbage,2026-10-25,1828.49,2298.82,2076.59
+Karnataka,Kolar,Kolar,Carrot,2026-10-25,4034.04,4479.96,4211.80
+Karnataka,Kolar,Kolar,Onion,2026-10-25,2899.59,3408.85,3250.69
+Karnataka,Kolar,Kolar,Potato,2026-10-25,2117.20,2382.28,2227.98
+Karnataka,Kolar,Kolar,Tomato,2026-10-25,2147.40,2629.77,2368.03
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-25,1747.05,2032.46,1844.35
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-25,3688.65,4588.03,4095.26
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-25,2764.28,3341.70,3091.19
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-25,1993.77,2431.43,2168.00
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-25,1970.31,2356.44,2192.48
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-26,1969.98,2283.97,2112.22
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-26,3986.33,4865.79,4385.84
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-26,2678.21,3231.86,2961.70
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-26,1982.96,2398.54,2185.57
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-26,2175.99,2662.75,2369.71
+Karnataka,Kolar,Kolar,Cabbage,2026-10-26,1859.75,2134.13,2045.74
+Karnataka,Kolar,Kolar,Carrot,2026-10-26,3704.13,4522.11,4086.64
+Karnataka,Kolar,Kolar,Onion,2026-10-26,2951.74,3397.58,3202.14
+Karnataka,Kolar,Kolar,Potato,2026-10-26,2127.89,2456.84,2285.76
+Karnataka,Kolar,Kolar,Tomato,2026-10-26,2159.10,2583.05,2305.36
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-26,1770.20,2087.24,1892.11
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-26,3910.33,4549.12,4219.43
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-26,2745.04,3325.98,3004.17
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-26,2051.88,2244.89,2139.07
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-26,2054.11,2259.59,2156.53
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-27,1871.28,2247.63,2101.58
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-27,4161.39,4781.45,4500.83
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-27,2718.20,3315.73,2990.90
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-27,2154.53,2399.62,2247.40
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-27,2199.64,2614.92,2351.05
+Karnataka,Kolar,Kolar,Cabbage,2026-10-27,1840.83,2173.93,1975.13
+Karnataka,Kolar,Kolar,Carrot,2026-10-27,4048.67,4734.16,4225.31
+Karnataka,Kolar,Kolar,Onion,2026-10-27,2955.09,3521.11,3117.74
+Karnataka,Kolar,Kolar,Potato,2026-10-27,2073.67,2389.24,2285.10
+Karnataka,Kolar,Kolar,Tomato,2026-10-27,2176.73,2525.60,2356.66
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-27,1800.95,2053.23,1948.74
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-27,3748.20,4464.55,4217.58
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-27,2655.50,3313.19,2983.24
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-27,1902.13,2273.47,2078.62
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-27,1850.18,2269.38,2094.63
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-28,1985.90,2319.46,2158.97
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-28,4094.82,5083.63,4515.22
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-28,2776.54,3405.48,3047.31
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-28,2008.01,2366.60,2240.74
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-28,2113.91,2572.93,2356.82
+Karnataka,Kolar,Kolar,Cabbage,2026-10-28,1809.81,2046.92,1909.57
+Karnataka,Kolar,Kolar,Carrot,2026-10-28,3960.78,4713.29,4232.52
+Karnataka,Kolar,Kolar,Onion,2026-10-28,2857.62,3295.92,3096.54
+Karnataka,Kolar,Kolar,Potato,2026-10-28,2117.47,2483.10,2213.36
+Karnataka,Kolar,Kolar,Tomato,2026-10-28,2088.29,2625.47,2366.42
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-28,1769.20,2161.50,1947.69
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-28,3866.46,4506.84,4133.27
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-28,2612.25,3141.53,2948.48
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-28,1914.67,2139.80,2032.94
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-28,1854.71,2291.63,2057.63
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-29,1967.21,2387.02,2119.53
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-29,4321.99,4833.57,4551.54
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-29,2817.09,3397.60,3130.98
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-29,1972.80,2460.33,2236.95
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-29,2221.65,2617.93,2345.02
+Karnataka,Kolar,Kolar,Cabbage,2026-10-29,1850.04,2135.01,1946.41
+Karnataka,Kolar,Kolar,Carrot,2026-10-29,4090.77,4854.19,4346.82
+Karnataka,Kolar,Kolar,Onion,2026-10-29,2756.26,3316.09,3097.99
+Karnataka,Kolar,Kolar,Potato,2026-10-29,1908.00,2376.26,2153.05
+Karnataka,Kolar,Kolar,Tomato,2026-10-29,2176.78,2660.74,2412.72
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-29,1818.78,2099.52,2001.90
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-29,3769.21,4436.57,4240.92
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-29,2831.92,3418.11,3036.32
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-29,1809.33,2128.54,1987.30
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-29,1761.41,2116.03,1998.72
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-30,1990.89,2431.12,2188.71
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-30,4041.56,4827.34,4421.90
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-30,2848.56,3473.59,3105.53
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-30,1929.97,2280.22,2164.73
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-30,2169.70,2532.14,2312.57
+Karnataka,Kolar,Kolar,Cabbage,2026-10-30,1729.88,2104.19,1934.88
+Karnataka,Kolar,Kolar,Carrot,2026-10-30,4018.30,4747.91,4309.57
+Karnataka,Kolar,Kolar,Onion,2026-10-30,2711.46,3196.26,3008.09
+Karnataka,Kolar,Kolar,Potato,2026-10-30,1946.02,2390.71,2210.70
+Karnataka,Kolar,Kolar,Tomato,2026-10-30,2176.84,2593.72,2433.04
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-30,1844.54,2248.80,2025.48
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-30,4074.36,4611.09,4259.76
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-30,2842.37,3497.43,3119.57
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-30,1790.61,2080.54,1962.56
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-30,1869.94,2079.27,1985.57
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-10-31,2120.80,2360.20,2221.46
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-10-31,3914.44,4912.47,4395.23
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-10-31,2889.34,3461.50,3118.40
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-10-31,1991.42,2382.13,2119.91
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-10-31,2018.31,2567.98,2288.63
+Karnataka,Kolar,Kolar,Cabbage,2026-10-31,1827.63,2030.24,1905.92
+Karnataka,Kolar,Kolar,Carrot,2026-10-31,3941.44,4721.86,4446.90
+Karnataka,Kolar,Kolar,Onion,2026-10-31,2585.37,3278.42,2914.57
+Karnataka,Kolar,Kolar,Potato,2026-10-31,1968.06,2314.83,2174.54
+Karnataka,Kolar,Kolar,Tomato,2026-10-31,2185.95,2610.28,2417.78
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-10-31,1822.98,2168.69,1978.38
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-10-31,3967.13,4817.48,4297.93
+Karnataka,Ramanagara,Ramanagara,Onion,2026-10-31,2998.41,3272.97,3134.36
+Karnataka,Ramanagara,Ramanagara,Potato,2026-10-31,1839.27,2146.11,1916.77
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-10-31,1813.59,2156.75,1950.51
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-01,2034.54,2416.82,2179.62
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-01,3748.71,4533.36,4254.00
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-01,2840.53,3491.95,3157.18
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-01,2012.27,2360.42,2110.68
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-01,2075.01,2465.15,2274.67
+Karnataka,Kolar,Kolar,Cabbage,2026-11-01,1796.90,1982.17,1884.16
+Karnataka,Kolar,Kolar,Carrot,2026-11-01,4186.92,4871.83,4591.78
+Karnataka,Kolar,Kolar,Onion,2026-11-01,2791.15,3349.22,3013.84
+Karnataka,Kolar,Kolar,Potato,2026-11-01,2076.09,2309.03,2193.98
+Karnataka,Kolar,Kolar,Tomato,2026-11-01,2202.16,2532.02,2410.46
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-01,1918.79,2248.25,2035.86
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-01,3883.60,4585.14,4245.36
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-01,3037.51,3491.35,3176.09
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-01,1777.15,2113.90,1885.37
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-01,1689.26,1997.00,1919.02
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-02,2033.65,2324.30,2126.58
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-02,3744.74,4456.01,4113.50
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-02,2800.46,3267.20,3100.41
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-02,1958.65,2292.42,2149.48
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-02,2143.60,2433.62,2286.25
+Karnataka,Kolar,Kolar,Cabbage,2026-11-02,1742.29,1973.56,1831.42
+Karnataka,Kolar,Kolar,Carrot,2026-11-02,4052.92,4917.16,4541.44
+Karnataka,Kolar,Kolar,Onion,2026-11-02,2688.58,3238.19,2941.30
+Karnataka,Kolar,Kolar,Potato,2026-11-02,2022.29,2452.13,2242.72
+Karnataka,Kolar,Kolar,Tomato,2026-11-02,2375.85,2805.46,2485.53
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-02,1839.44,2130.99,2018.60
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-02,3884.66,4442.12,4265.08
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-02,2929.12,3581.71,3250.38
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-02,1676.24,2145.49,1902.85
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-02,1725.89,2052.72,1895.43
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-03,1946.92,2350.22,2164.51
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-03,3924.46,4531.36,4140.84
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-03,2930.09,3288.45,3098.69
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-03,1947.74,2340.63,2157.97
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-03,2058.35,2590.86,2301.40
+Karnataka,Kolar,Kolar,Cabbage,2026-11-03,1758.27,2057.35,1872.06
+Karnataka,Kolar,Kolar,Carrot,2026-11-03,4143.25,4954.97,4414.26
+Karnataka,Kolar,Kolar,Onion,2026-11-03,2737.86,3186.39,2942.32
+Karnataka,Kolar,Kolar,Potato,2026-11-03,2105.52,2458.61,2231.17
+Karnataka,Kolar,Kolar,Tomato,2026-11-03,2387.80,2824.20,2542.07
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-03,1804.32,2108.04,2018.57
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-03,3846.44,4815.98,4353.71
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-03,2868.92,3617.16,3239.78
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-03,1785.31,2001.67,1924.34
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-03,1724.27,2082.76,1949.28
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-04,1984.76,2404.88,2144.69
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-04,3808.29,4488.06,4009.56
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-04,2741.23,3405.54,3024.51
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-04,2031.59,2369.83,2150.53
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-04,2136.65,2581.03,2379.56
+Karnataka,Kolar,Kolar,Cabbage,2026-11-04,1718.54,1960.29,1862.82
+Karnataka,Kolar,Kolar,Carrot,2026-11-04,4107.44,4761.90,4441.97
+Karnataka,Kolar,Kolar,Onion,2026-11-04,2529.75,2991.76,2856.28
+Karnataka,Kolar,Kolar,Potato,2026-11-04,2141.01,2537.90,2281.07
+Karnataka,Kolar,Kolar,Tomato,2026-11-04,2270.99,2714.19,2461.67
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-04,1898.01,2262.06,2078.78
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-04,3944.88,4680.50,4446.32
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-04,2936.40,3363.34,3189.79
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-04,1872.76,2064.73,1978.89
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-04,1724.69,2181.53,1940.73
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-05,2049.80,2317.81,2176.45
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-05,3635.36,4368.63,4013.58
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-05,2772.11,3525.39,3129.09
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-05,2020.20,2488.41,2204.53
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-05,2034.54,2490.29,2298.47
+Karnataka,Kolar,Kolar,Cabbage,2026-11-05,1777.74,2053.72,1860.40
+Karnataka,Kolar,Kolar,Carrot,2026-11-05,3915.00,4735.68,4365.00
+Karnataka,Kolar,Kolar,Onion,2026-11-05,2736.99,3106.43,2928.49
+Karnataka,Kolar,Kolar,Potato,2026-11-05,2050.43,2493.28,2214.29
+Karnataka,Kolar,Kolar,Tomato,2026-11-05,2267.87,2700.53,2470.39
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-05,1806.68,2131.16,2041.42
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-05,4310.32,5110.22,4575.51
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-05,3038.26,3424.12,3231.01
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-05,1852.99,2196.15,2001.10
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-05,1706.61,2110.22,1907.74
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-06,1945.87,2386.31,2209.31
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-06,3700.04,4416.32,3993.52
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-06,2981.67,3375.05,3115.80
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-06,2044.76,2424.65,2196.34
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-06,2103.20,2581.95,2356.68
+Karnataka,Kolar,Kolar,Cabbage,2026-11-06,1820.28,2097.55,1914.62
+Karnataka,Kolar,Kolar,Carrot,2026-11-06,4074.98,4657.20,4266.03
+Karnataka,Kolar,Kolar,Onion,2026-11-06,2659.22,3231.25,2972.48
+Karnataka,Kolar,Kolar,Potato,2026-11-06,2055.68,2419.40,2215.19
+Karnataka,Kolar,Kolar,Tomato,2026-11-06,2240.86,2608.43,2479.59
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-06,1938.18,2289.31,2041.24
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-06,4260.41,4985.00,4512.34
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-06,2910.97,3326.29,3149.96
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-06,1888.10,2233.40,2042.13
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-06,1762.75,2043.16,1854.88
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-07,2036.67,2425.06,2241.68
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-07,3795.29,4493.80,4087.72
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-07,3076.17,3558.18,3205.95
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-07,1988.41,2521.29,2237.09
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-07,2187.65,2623.28,2344.25
+Karnataka,Kolar,Kolar,Cabbage,2026-11-07,1780.49,2139.40,1910.84
+Karnataka,Kolar,Kolar,Carrot,2026-11-07,4105.13,4778.72,4280.31
+Karnataka,Kolar,Kolar,Onion,2026-11-07,2688.38,3230.55,2991.57
+Karnataka,Kolar,Kolar,Potato,2026-11-07,2083.16,2338.21,2210.01
+Karnataka,Kolar,Kolar,Tomato,2026-11-07,2369.50,2580.95,2471.21
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-07,1810.24,2141.43,1983.80
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-07,4248.35,4773.82,4573.52
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-07,2783.91,3234.25,3062.92
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-07,1882.10,2234.58,1986.95
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-07,1778.12,2045.16,1908.98
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-08,2109.66,2476.66,2246.10
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-08,3623.02,4468.57,3989.60
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-08,3067.05,3512.94,3271.26
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-08,2001.52,2280.29,2173.78
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-08,2199.03,2638.75,2335.73
+Karnataka,Kolar,Kolar,Cabbage,2026-11-08,1770.39,2060.96,1956.59
+Karnataka,Kolar,Kolar,Carrot,2026-11-08,4024.75,4690.15,4338.93
+Karnataka,Kolar,Kolar,Onion,2026-11-08,2641.83,3323.60,2955.71
+Karnataka,Kolar,Kolar,Potato,2026-11-08,2153.26,2355.11,2245.45
+Karnataka,Kolar,Kolar,Tomato,2026-11-08,2210.72,2582.16,2405.50
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-08,1850.27,2129.33,1985.73
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-08,4270.55,5213.25,4626.47
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-08,2758.75,3368.53,3011.11
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-08,1774.24,2143.02,1984.69
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-08,1741.35,2010.34,1920.30
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-09,1990.40,2408.33,2181.82
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-09,3594.57,4560.57,4046.83
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-09,3208.18,3633.26,3351.65
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-09,1924.81,2354.83,2138.04
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-09,2237.73,2550.55,2388.41
+Karnataka,Kolar,Kolar,Cabbage,2026-11-09,1839.85,2193.30,1945.79
+Karnataka,Kolar,Kolar,Carrot,2026-11-09,4101.04,4748.92,4480.13
+Karnataka,Kolar,Kolar,Onion,2026-11-09,2785.28,3225.42,3036.09
+Karnataka,Kolar,Kolar,Potato,2026-11-09,2065.71,2588.03,2321.37
+Karnataka,Kolar,Kolar,Tomato,2026-11-09,2339.77,2567.36,2460.91
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-09,1919.43,2099.67,2000.55
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-09,4301.12,4952.02,4494.20
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-09,2739.32,3277.55,2912.95
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-09,1793.38,2149.02,2012.99
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-09,1743.08,1978.60,1877.25
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-10,1920.28,2252.75,2148.25
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-10,3469.78,4264.98,3921.54
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-10,3000.01,3467.27,3248.63
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-10,1930.13,2327.66,2119.09
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-10,2192.45,2561.46,2357.79
+Karnataka,Kolar,Kolar,Cabbage,2026-11-10,1703.74,2101.36,1909.50
+Karnataka,Kolar,Kolar,Carrot,2026-11-10,4084.82,4799.18,4376.39
+Karnataka,Kolar,Kolar,Onion,2026-11-10,2808.35,3259.01,3068.46
+Karnataka,Kolar,Kolar,Potato,2026-11-10,2102.57,2535.78,2381.00
+Karnataka,Kolar,Kolar,Tomato,2026-11-10,2147.42,2540.96,2427.05
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-10,1762.89,2067.83,1931.64
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-10,4208.87,5003.87,4512.85
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-10,2666.02,2985.86,2840.55
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-10,1926.46,2300.06,2053.60
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-10,1717.98,1961.05,1812.38
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-11,2084.82,2482.66,2215.67
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-11,3780.87,4209.29,4006.80
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-11,2799.84,3344.98,3176.23
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-11,1812.91,2178.08,2056.22
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-11,2192.58,2724.46,2418.91
+Karnataka,Kolar,Kolar,Cabbage,2026-11-11,1819.98,2097.50,1955.76
+Karnataka,Kolar,Kolar,Carrot,2026-11-11,4124.86,4800.61,4362.49
+Karnataka,Kolar,Kolar,Onion,2026-11-11,2896.99,3514.42,3120.34
+Karnataka,Kolar,Kolar,Potato,2026-11-11,2132.91,2668.07,2385.30
+Karnataka,Kolar,Kolar,Tomato,2026-11-11,2214.87,2633.49,2362.04
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-11,1696.85,2011.66,1865.66
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-11,4355.27,4970.55,4538.89
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-11,2434.82,3038.81,2763.31
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-11,1879.85,2262.09,2060.86
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-11,1638.11,2074.45,1839.70
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-12,1953.36,2431.37,2154.81
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-12,3690.42,4316.92,3895.54
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-12,2855.91,3403.84,3137.73
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-12,1906.24,2197.41,1991.27
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-12,2108.69,2590.16,2387.26
+Karnataka,Kolar,Kolar,Cabbage,2026-11-12,1882.24,2207.83,2020.65
+Karnataka,Kolar,Kolar,Carrot,2026-11-12,4161.95,4580.24,4383.77
+Karnataka,Kolar,Kolar,Onion,2026-11-12,2711.81,3385.63,3056.10
+Karnataka,Kolar,Kolar,Potato,2026-11-12,2121.74,2512.78,2359.31
+Karnataka,Kolar,Kolar,Tomato,2026-11-12,2209.83,2587.53,2380.84
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-12,1628.74,1994.82,1846.61
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-12,4087.12,5091.95,4639.34
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-12,2627.37,2941.86,2819.81
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-12,1835.33,2199.10,2042.65
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-12,1689.65,2074.13,1840.82
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-13,1939.40,2384.50,2202.90
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-13,3436.18,4219.06,3794.27
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-13,2979.52,3538.77,3233.44
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-13,1776.80,2076.27,1950.54
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-13,2234.26,2513.57,2407.74
+Karnataka,Kolar,Kolar,Cabbage,2026-11-13,1909.10,2206.61,2029.26
+Karnataka,Kolar,Kolar,Carrot,2026-11-13,4041.24,4609.10,4355.77
+Karnataka,Kolar,Kolar,Onion,2026-11-13,2857.36,3180.53,2997.31
+Karnataka,Kolar,Kolar,Potato,2026-11-13,2231.87,2527.26,2333.27
+Karnataka,Kolar,Kolar,Tomato,2026-11-13,2087.88,2407.71,2297.56
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-13,1770.83,2019.53,1860.68
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-13,4395.38,5101.79,4791.46
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-13,2472.28,2847.80,2731.62
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-13,1868.06,2264.14,2024.42
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-13,1644.40,1966.84,1820.62
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-14,2041.04,2456.47,2199.74
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-14,3393.79,3968.12,3791.42
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-14,2960.92,3366.40,3193.85
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-14,1771.04,2123.17,1943.12
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-14,2297.82,2548.20,2417.00
+Karnataka,Kolar,Kolar,Cabbage,2026-11-14,1839.77,2191.91,2049.19
+Karnataka,Kolar,Kolar,Carrot,2026-11-14,3952.59,4714.40,4338.31
+Karnataka,Kolar,Kolar,Onion,2026-11-14,2740.79,3396.74,3076.96
+Karnataka,Kolar,Kolar,Potato,2026-11-14,2038.54,2525.53,2290.06
+Karnataka,Kolar,Kolar,Tomato,2026-11-14,2098.89,2635.03,2369.04
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-14,1668.68,1922.37,1799.34
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-14,4109.24,5113.70,4648.16
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-14,2404.63,2960.87,2638.30
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-14,1783.48,2114.66,2000.35
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-14,1691.71,2003.67,1779.03
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-15,2005.63,2409.98,2263.31
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-15,3405.99,4140.19,3842.96
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-15,2875.80,3488.66,3140.78
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-15,1772.34,2076.88,1896.64
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-15,2114.62,2696.80,2396.96
+Karnataka,Kolar,Kolar,Cabbage,2026-11-15,1786.01,2244.40,1988.29
+Karnataka,Kolar,Kolar,Carrot,2026-11-15,3752.02,4411.26,4202.76
+Karnataka,Kolar,Kolar,Onion,2026-11-15,2868.76,3285.17,3023.55
+Karnataka,Kolar,Kolar,Potato,2026-11-15,2048.48,2547.47,2325.65
+Karnataka,Kolar,Kolar,Tomato,2026-11-15,2098.41,2491.39,2303.78
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-15,1573.23,1862.93,1755.22
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-15,4184.20,5022.09,4527.06
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-15,2443.05,2874.56,2559.99
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-15,1829.20,2119.71,1989.70
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-15,1607.21,1925.76,1786.73
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-16,2074.89,2621.59,2326.06
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-16,3575.64,3944.30,3792.53
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-16,3098.37,3406.65,3231.42
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-16,1728.60,2150.34,1938.77
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-16,2171.09,2679.67,2392.80
+Karnataka,Kolar,Kolar,Cabbage,2026-11-16,1848.12,2180.10,1953.88
+Karnataka,Kolar,Kolar,Carrot,2026-11-16,3692.43,4628.17,4165.68
+Karnataka,Kolar,Kolar,Onion,2026-11-16,2842.21,3228.43,2986.78
+Karnataka,Kolar,Kolar,Potato,2026-11-16,2075.84,2517.08,2353.94
+Karnataka,Kolar,Kolar,Tomato,2026-11-16,2102.05,2579.42,2289.21
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-16,1587.67,2017.90,1793.38
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-16,4192.37,4861.06,4396.75
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-16,2345.70,2853.62,2640.53
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-16,1781.74,2117.46,2010.94
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-16,1635.30,2030.72,1816.28
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-17,2209.80,2473.91,2339.27
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-17,3626.66,4299.22,3917.23
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-17,2964.70,3655.89,3254.66
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-17,1888.23,2121.34,1968.31
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-17,2055.08,2516.34,2321.01
+Karnataka,Kolar,Kolar,Cabbage,2026-11-17,1751.39,2039.87,1931.04
+Karnataka,Kolar,Kolar,Carrot,2026-11-17,3618.30,4592.59,4111.36
+Karnataka,Kolar,Kolar,Onion,2026-11-17,2815.21,3322.58,2948.65
+Karnataka,Kolar,Kolar,Potato,2026-11-17,2201.94,2443.87,2346.26
+Karnataka,Kolar,Kolar,Tomato,2026-11-17,2130.86,2557.54,2339.37
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-17,1580.83,1985.00,1760.01
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-17,4155.08,4728.90,4460.83
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-17,2380.82,2965.10,2660.55
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-17,1774.19,2203.26,2013.76
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-17,1584.10,1950.26,1770.28
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-18,2129.27,2470.72,2307.18
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-18,3688.15,4166.72,3866.97
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-18,2967.06,3481.73,3223.56
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-18,1920.23,2147.84,2010.06
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-18,2121.22,2460.42,2301.37
+Karnataka,Kolar,Kolar,Cabbage,2026-11-18,1754.91,2073.02,1933.29
+Karnataka,Kolar,Kolar,Carrot,2026-11-18,3821.19,4540.70,4058.23
+Karnataka,Kolar,Kolar,Onion,2026-11-18,2710.99,3374.01,3027.49
+Karnataka,Kolar,Kolar,Potato,2026-11-18,2229.67,2446.47,2324.55
+Karnataka,Kolar,Kolar,Tomato,2026-11-18,2184.98,2401.02,2298.88
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-18,1573.03,1977.72,1757.91
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-18,4348.20,5057.14,4543.21
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-18,2479.79,3012.00,2740.80
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-18,1801.12,2174.45,1977.86
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-18,1537.52,1849.62,1731.56
+Karnataka,Bengaluru Urban,Bengaluru,Cabbage,2026-11-19,2073.64,2504.27,2242.95
+Karnataka,Bengaluru Urban,Bengaluru,Carrot,2026-11-19,3607.05,4358.37,3904.97
+Karnataka,Bengaluru Urban,Bengaluru,Onion,2026-11-19,2993.90,3473.52,3188.59
+Karnataka,Bengaluru Urban,Bengaluru,Potato,2026-11-19,1887.25,2151.47,1985.76
+Karnataka,Bengaluru Urban,Bengaluru,Tomato,2026-11-19,2094.55,2645.62,2357.82
+Karnataka,Kolar,Kolar,Cabbage,2026-11-19,1716.82,2064.22,1875.43
+Karnataka,Kolar,Kolar,Carrot,2026-11-19,3706.57,4513.77,4029.64
+Karnataka,Kolar,Kolar,Onion,2026-11-19,2797.91,3255.13,3036.72
+Karnataka,Kolar,Kolar,Potato,2026-11-19,2150.10,2586.40,2339.56
+Karnataka,Kolar,Kolar,Tomato,2026-11-19,2117.20,2394.95,2220.57
+Karnataka,Ramanagara,Ramanagara,Cabbage,2026-11-19,1686.07,1990.60,1767.74
+Karnataka,Ramanagara,Ramanagara,Carrot,2026-11-19,4061.98,4986.25,4416.71
+Karnataka,Ramanagara,Ramanagara,Onion,2026-11-19,2542.18,3151.03,2790.51
+Karnataka,Ramanagara,Ramanagara,Potato,2026-11-19,1885.26,2222.25,2041.35
+Karnataka,Ramanagara,Ramanagara,Tomato,2026-11-19,1623.15,1861.42,1763.64

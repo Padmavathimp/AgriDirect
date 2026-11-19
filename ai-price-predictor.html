@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Mandi Price Predictor | AgriDirect</title>
+  <link rel="stylesheet" href="css/ai-predictor.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><span class="brand-mark">🌱</span> AgriDirect</a>
+    <nav><a href="index.html">Home</a><a href="marketplace.html">Marketplace</a><a class="active" href="ai-price-predictor.html">AI Price Predictor</a></nav>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">SMART FARMING • DATA-DRIVEN DECISIONS</p>
+        <h1>AI Mandi Price Predictor</h1>
+        <p>Explore estimated vegetable mandi prices for the next 7 days and plan when to sell.</p>
+      </div>
+      <div class="hero-icon">📈</div>
+    </section>
+
+    <section class="panel controls">
+      <div class="field">
+        <label for="market">Market</label>
+        <select id="market"><option value="Anekal">Anekal, Karnataka</option></select>
+      </div>
+      <div class="field">
+        <label for="commodity">Select vegetable</label>
+        <select id="commodity">
+          <option value="Tomato">🍅 Tomato</option>
+          <option value="Onion">🧅 Onion</option>
+          <option value="Potato">🥔 Potato</option>
+        </select>
+      </div>
+      <button id="predictBtn" type="button">Predict next 7 days</button>
+    </section>
+
+    <div id="status" class="status" role="status">Choose a vegetable and select Predict to view the forecast.</div>
+
+    <section id="results" class="results hidden">
+      <div class="summary-grid">
+        <article class="metric"><span>Latest recorded mandi price</span><strong id="latestPrice">—</strong><small id="latestDate">Actual historical record</small></article>
+        <article class="metric"><span>7-day average prediction</span><strong id="averagePrice">—</strong><small>Model estimate</small></article>
+        <article class="metric"><span>Expected trend</span><strong id="trend">—</strong><small id="trendNote">Based on forecast values</small></article>
+      </div>
+      <article class="panel">
+        <div class="section-heading"><div><h2>7-day price forecast</h2><p>Estimated modal price • ₹ per quintal</p></div><span class="tag">AI ESTIMATE</span></div>
+        <div class="chart-wrap"><canvas id="priceChart" aria-label="Seven day predicted mandi prices"></canvas></div>
+        <div id="forecastTable" class="forecast-list"></div>
+      </article>
+      <article class="guidance">
+        <h2>Suggested selling insight</h2>
+        <p id="guidanceText">—</p>
+        <small>Use this as decision support, not a guaranteed selling price.</small>
+      </article>
+      <p class="disclaimer">Forecasts are estimates based on the historical CSV data supplied to the model. Actual prices can change due to arrivals, weather, demand, transport and market conditions.</p>
+    </section>
+
+    <section class="how panel">
+      <h2>How it works</h2>
+      <div class="steps">
+        <div><b>01</b><h3>Historical mandi data</h3><p>Past modal prices are read from your AGMARKNET-style CSV file.</p></div>
+        <div><b>02</b><h3>Machine learning</h3><p>A Random Forest regression model learns patterns from previous prices and dates.</p></div>
+        <div><b>03</b><h3>7-day estimate</h3><p>The model generates a separate estimated price for each of the next seven days.</p></div>
+      </div>
+    </section>
+  </main>
+  <footer>© AgriDirect • Empowering farmers with better market information</footer>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="js/ai-predictor.js"></script>
+</body>
+</html>
